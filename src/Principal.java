@@ -25,8 +25,8 @@ public class Principal {
 		JOptionPane.showMessageDialog(null,"Nombre: "+ a.getNombre()
 		+"\n Apellido paterno: "+ a.getpApellido()+"\n"+ 
 		"Apellido materno: "+a.getsApellido()
-		+"\n Número de control: "+a.getnControl());
-	
+		+"\n Nï¿½mero de control: "+a.getnControl());
+	System.out.println("Git hola mundo git");
 	}
 
 }
