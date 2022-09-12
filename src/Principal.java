@@ -27,6 +27,7 @@ public class Principal {
 		"Apellido materno: "+a.getsApellido()
 		+"\n N�mero de control: "+a.getnControl());
 	System.out.println("Git hola mundo git");
+		System.out.println("Hola otra vez");
 	}
 
 }
